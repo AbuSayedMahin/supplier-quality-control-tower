@@ -1,0 +1,7 @@
+component_id,component_name,assembly,characteristic,nominal,lsl,usl,unit,process,criticality
+CMP-101,High-Speed Rotating Shaft,Turbocharger rotor group,Journal Diameter,25.0,24.98,25.02,mm,CNC Turning,Critical
+CMP-102,Turbine Housing,Turbocharger hot side,Bore Diameter,60.0,59.95,60.05,mm,CNC Milling,Major
+CMP-103,Compressor Impeller,Turbocharger cold side,Hub Thickness,8.0,7.97,8.03,mm,CNC Milling,Critical
+CMP-104,Bearing Carrier,Turbocharger centre housing,Bore Diameter,42.0,41.975,42.025,mm,Cylindrical Grinding,Critical
+CMP-105,Gear Shaft Spline,Auxiliary drive,Pitch Diameter,18.0,17.985,18.015,mm,Cylindrical Grinding,Major
+CMP-106,Oil Pump Body,Lubrication system,Oil Port Position,12.0,11.96,12.04,mm,CNC Milling,Major

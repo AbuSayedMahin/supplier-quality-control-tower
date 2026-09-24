@@ -1,0 +1,6 @@
+supplier_id,supplier_name,category,location,approval_status,on_time_delivery_pct,years_supplying
+SUP-001,Apex Precision,Precision turning and grinding,United Kingdom,Approved,96.4,6
+SUP-002,Vector Machining,Multi-axis milling,United Kingdom,Approved,93.1,4
+SUP-003,Orion Components,Castings and machined housings,Italy,Approved - under review,89.7,3
+SUP-004,Velocity Manufacturing,Machining and sub-assembly,Germany,Approved,94.8,5
+SUP-005,Nova Engineering,Precision grinding and finishing,United Kingdom,Approved,97.2,8
